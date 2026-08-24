@@ -1,0 +1,9 @@
+# Büyük dosyalar (GitHub'a gönderilmiyor)
+*.mp4
+archive/
+
+# Notebook / Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/

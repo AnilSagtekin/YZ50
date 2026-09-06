@@ -7,3 +7,6 @@ archive/
 __pycache__/
 *.pyc
 .venv/
+
+# geçici
+_to_delete/
